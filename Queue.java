@@ -1,4 +1,7 @@
 //Made by Amplify Learning - Alok Sir
+// Program for Queue
+// Main function is not meant to be written in isc board exams
+// write only those functions which are asked in the question
 
 class Queue
 {
