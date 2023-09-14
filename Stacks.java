@@ -1,3 +1,8 @@
+//Made by Amplify Learning - Alok Sir
+// Program for Stack
+// Main function is not meant to be written in isc board exams
+// write only those functions which are asked in the question
+
 class Stack
 {
     int arr[];
